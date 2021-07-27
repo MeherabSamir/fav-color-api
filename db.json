@@ -1,0 +1,9 @@
+{
+    "color":[
+        {"id":1,"hexCode":"#ffc600"},
+        {"id":2,"hexCode":"#1c1c1c"},
+        {"id":3,"hexCode":"#efefef"},
+        {"id":4,"hexCode":"#888888"},
+        {"id":5,"hexCode":"#ffffff"}
+    ]
+}
