@@ -1,9 +1,24 @@
 {
-    "color":[
-        {"id":1,"hexCode":"#ffc600"},
-        {"id":2,"hexCode":"#1c1c1c"},
-        {"id":3,"hexCode":"#efefef"},
-        {"id":4,"hexCode":"#888888"},
-        {"id":5,"hexCode":"#ffffff"}
-    ]
+  "flat-bg": [
+    { "id": 1, "hexCode": "#ffc600" },
+    { "id": 2, "hexCode": "#1c1c1c" },
+    { "id": 3, "hexCode": "#efefef" },
+    { "id": 4, "hexCode": "#888888" },
+    { "id": 5, "hexCode": "#ffffff" }
+  ],
+  "gradient-bg": [
+    { "id": 1, "color-1": "#ffc600", "color-2": "#1c1c1c" },
+    { "id": 1, "color-1": "#ffffff", "color-2": "#000000" }
+  ],
+  "flat-text": [
+    { "id": 1, "hexCode": "#ffc600" },
+    { "id": 2, "hexCode": "#1c1c1c" },
+    { "id": 3, "hexCode": "#efefef" },
+    { "id": 4, "hexCode": "#888888" },
+    { "id": 5, "hexCode": "#ffffff" }
+  ],
+  "gradient-text": [
+    { "id": 1, "color-1": "#ffc600", "color-2": "#1c1c1c" },
+    { "id": 1, "color-1": "#ffffff", "color-2": "#000000" }
+  ]
 }
