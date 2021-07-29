@@ -8,7 +8,11 @@ module.exports = {
     fontFamily: {
 
       'poppins': ['\'Poppins\',sans-serif']
-     }
+     },
+     screens: {
+      'xs': '275px',
+      'sm': '640px'
+    }
   },
   variants: {
     extend: {},
